@@ -80,8 +80,10 @@ I'm **Bilal Hamada** – a passionate technologist with a drive for innovation a
 
 
 ---
-<picture>
+<div align="center">
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalkamal/bilalkamal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilalkamal/bilalkamal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bilalkamal/bilalkamal/output/github-snake.svg" />
 </picture>
+</div>
