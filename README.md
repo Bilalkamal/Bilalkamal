@@ -72,9 +72,11 @@ I'm **Bilal Hamada** – a passionate technologist with a drive for innovation a
 ---
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bilalkamal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos (Dark)" style="display: none;" media="(prefers-color-scheme: dark)">
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=bilalkamal&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repos (Light)" style="display: block;" media="(prefers-color-scheme: light)">
+  <picture>
+    <source srcset="https://github-contributor-stats.vercel.app/api?username=bilalkamal&limit=5&theme=dark&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)">
+    <img src="https://github-contributor-stats.vercel.app/api?username=bilalkamal&limit=5&theme=light&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+  </picture>
 </div>
+
 
 ---
