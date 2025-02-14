@@ -23,10 +23,10 @@ I'm **Bilal Hamada** – a passionate technologist with a drive for innovation a
 - 👨‍🏫 Mentor aspiring developers
 - ⚡ Automate workflows
 - 💻 Contribute to impactful open-source projects
-
-<div align="center" style="margin: 20px 0;">
+---
+<div style="margin: 20px 0;">
   <a href="https://BilalHamada.com" target="_blank" style="display: inline-block; background-color: #2C9AF7; color: #ffffff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px;">
-    🌐 Visit My Website
+    🌐 BilalHamada.com
   </a>
 </div>
 
